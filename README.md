@@ -5,9 +5,8 @@ I'm a Computer Science student from New Zealand who enjoys building real-time mu
 ### Current interests
 - Multiplayer systems with Socket.IO
 - Full-stack JavaScript development
-- Browser-based code execution with Pyodide
 - Game development
-- Web security and performance
+- Web security and server performance
 
 ### Projects
 - **co-code.net** — a multiplayer browser-based Python coding platform with live collaboration
