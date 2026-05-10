@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hey, I'm Tim 👋
 
-<!--
-**tipollae/tipollae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student from New Zealand who enjoys building real-time multiplayer web applications and interactive tools.
 
-Here are some ideas to get you started:
+### Current interests
+- Multiplayer systems with Socket.IO
+- Full-stack JavaScript development
+- Browser-based code execution with Pyodide
+- Game development
+- Web security and performance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- **co-code.net** — a multiplayer browser-based Python coding platform with live collaboration
+- **YuzzWatch** — a synchronized watch-party platform with real-time video playback and chat
+
+### Tech stack
+JavaScript • Node.js • Express • Socket.IO • MongoDB • HTML/CSS • Phaser • Pyodide
+
+I enjoy experimenting with ambitious ideas, learning through building, and figuring out how large-scale real-time systems work behind the scenes.
