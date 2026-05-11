@@ -10,7 +10,7 @@ I'm a Computer Science student from New Zealand who enjoys building real-time mu
 
 ### Projects
 - **co-code.net** — a multiplayer browser-based Python coding platform with live collaboration
-- **YuzzWatch** — a synchronized watch-party platform with real-time video playback and chat
+- **yuzzwatch** — a synchronized watch-party platform with real-time video playback and chat
 
 ### Tech stack
 JavaScript • Node.js • Express • Socket.IO • MongoDB • HTML/CSS • Phaser • Pyodide
