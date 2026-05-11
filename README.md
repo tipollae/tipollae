@@ -8,7 +8,7 @@ I'm a Computer Science student from New Zealand who enjoys building real-time mu
 - Game development
 - Web security and server performance
 
-### Projects
+### Deployed Projects
 - **co-code.net** — a multiplayer browser-based Python coding platform with live collaboration
 - **yuzzwatch** — a synchronized watch-party platform with real-time video playback and chat
 
