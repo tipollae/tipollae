@@ -1,4 +1,4 @@
-## Hey, I'm Tim/tipollae
+## Hey, I'm Tim
 
 I'm a Computer Science student from New Zealand who enjoys building real-time multiplayer web applications and interactive tools.
 
