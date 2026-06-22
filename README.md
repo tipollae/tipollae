@@ -17,7 +17,7 @@ I enjoy experimenting with ambitious ideas, learning through building, and figur
 JavaScript • Node.js • Express • Socket.IO • MongoDB • HTML/CSS • Phaser • Pyodide
 
 ### My journey
-One of my earlier projects, Yuzzwatch, was a real-time watch together platform built with Node.js, Socket.IO, MongoDB, and the YouTube API. The project worked, but as it grew I began noticing issues with security, scalability, project structure, and maintainability.
+One of my earlier projects, Yuzzwatch, was a real-time watch together platform built with Node.js, Socket.IO, MongoDB, and the YouTube API. While the project worked, it exposed weaknesses in my understanding of software architecture, security, and scalability.
 
 Rather than viewing those problems as failures, I treated them as opportunities to improve.
 
