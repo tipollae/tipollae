@@ -30,4 +30,4 @@ Since then, every project I've worked on has been an attempt to solve a weakness
 - Understanding how real-world systems handle large numbers of users.
 
 I don't aim to write perfect software on the first attempt.
-Instead, I focus on identifying weaknesses, understanding why they exist, and applying those lessons to the next thing that I work on.
+Instead, I focus on identifying weaknesses, understanding why they exist, and applying those lessons onto the next thing that I work on.
