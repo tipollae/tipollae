@@ -10,8 +10,8 @@ I enjoy experimenting with ambitious ideas, learning through building, and figur
 - Web security and server performance
 
 ### Deployed Projects
-- **co-code.net** — a multiplayer browser based Python coding platform with live collaboration
-- **yuzzwatch** — a synchronized watch party platform with real time video playback and chat
+- **co-code.net** - a multiplayer browser based Python coding platform with live collaboration
+- **yuzzwatch** - a synchronized watch party platform with real time video playback and chat
 
 ### Tech stack
 JavaScript • Node.js • Express • Socket.IO • MongoDB • HTML/CSS • Phaser • Pyodide
